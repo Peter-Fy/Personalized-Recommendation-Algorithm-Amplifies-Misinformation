@@ -1,6 +1,6 @@
 # Personalized-Recommendation-Algorithm-Amplifies-Misinformation
 
-Here are codes for our paper submitted to PNAS:
+Here are codes for our paper:
 
 * Personalized Recommendation Algorithm Amplifies the Consumption of Misinformation Videos
 
